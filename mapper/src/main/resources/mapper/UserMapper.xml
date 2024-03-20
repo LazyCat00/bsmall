@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.nnutc.mapper.UserMapper">
+
+    <!-- 定义User对象的ResultMap -->
+    <resultMap id="userResultMap" type="com.nnutc.entity.User" autoMapping="true"></resultMap>
+
+    <!-- 分页查询方法 -->
+    <select id="selectPage" resultMap="userResultMap">
+        SELECT * FROM t_user
+        <where>
+            <if test="vo.userName != null and vo.userName != ''">
+                AND username LIKE CONCAT('%', #{vo.userName}, '%')
+            </if>
+                 AND is_deleted = 0
+        </where>
+        ORDER BY id desc
+    </select>
+
+
+</mapper>

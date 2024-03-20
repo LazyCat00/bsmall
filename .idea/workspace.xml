@@ -4,14 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02a707d7-f8b3-4373-840c-812632d055bd" name="更改" comment="" />
+    <list default="true" id="02a707d7-f8b3-4373-840c-812632d055bd" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entity/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/entity/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapper/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mapper/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -23,30 +41,168 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2dADEKLtA27uQMrrHGEdCggM8gC" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "MavenSettings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;HTTP 请求.rest-api | #1.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserMapperTest.BatchDelete.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserMapperTest.ConditionDelete.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserMapperTest.addUser.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserMapperTest.deleteUser.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserMapperTest.findAll.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserMapperTest.testFuzzySearch.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserMapperTest.testSelect.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserMapperTest.updateUser.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceTest.add.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceTest.findAll.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceTest.remove.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceTest.select.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceTest.update.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.mapper [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.mapper [install].executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.ControllerApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/IdeaProjects/bsmall/controller/src/main/resources&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\IdeaProjects\bsmall\controller\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.nnutc.mapper" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ControllerApplication">
+    <configuration name="rest-api | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" requestIdentifier="#1" runType="运行单个请求">
+      <method v="2" />
+    </configuration>
+    <configuration name="UserServiceTest.findAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="controller" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nnutc.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nnutc.service" />
+      <option name="MAIN_CLASS_NAME" value="com.nnutc.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="findAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.remove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="controller" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nnutc.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nnutc.service" />
+      <option name="MAIN_CLASS_NAME" value="com.nnutc.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="remove" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.select" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="controller" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nnutc.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nnutc.service" />
+      <option name="MAIN_CLASS_NAME" value="com.nnutc.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="select" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.update" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="controller" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nnutc.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nnutc.service" />
+      <option name="MAIN_CLASS_NAME" value="com.nnutc.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="update" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ControllerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="controller" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nnutc.ControllerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="HTTP 请求.rest-api | #1" />
+      <item itemvalue="JUnit.UserServiceTest.findAll" />
+      <item itemvalue="JUnit.UserServiceTest.remove" />
+      <item itemvalue="JUnit.UserServiceTest.select" />
+      <item itemvalue="JUnit.UserServiceTest.update" />
+      <item itemvalue="Spring Boot.ControllerApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP 请求.rest-api | #1" />
+        <item itemvalue="JUnit.UserServiceTest.select" />
+        <item itemvalue="JUnit.UserServiceTest.remove" />
+        <item itemvalue="JUnit.UserServiceTest.update" />
+        <item itemvalue="JUnit.UserServiceTest.findAll" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
         <option value="jdk-1.8.0_402-corretto-1.8.0_402-4caba194b151-ae57be32" />
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
       </set>
     </attachedChunks>
   </component>
@@ -59,11 +215,31 @@
       <option name="presentableId" value="Default" />
       <updated>1709385380209</updated>
       <workItem from="1709385381396" duration="967000" />
-      <workItem from="1709441878045" duration="15000" />
+      <workItem from="1709441878045" duration="717000" />
+      <workItem from="1709454737588" duration="44000" />
+      <workItem from="1709522251292" duration="1106000" />
+      <workItem from="1709531724745" duration="2658000" />
+      <workItem from="1709535378548" duration="4543000" />
+      <workItem from="1709552987988" duration="428000" />
+      <workItem from="1709604526152" duration="402000" />
+      <workItem from="1709619703324" duration="1667000" />
+      <workItem from="1709968404654" duration="2440000" />
+      <workItem from="1709971415796" duration="636000" />
+      <workItem from="1709972099054" duration="226000" />
+      <workItem from="1709972393366" duration="144000" />
+      <workItem from="1710114912000" duration="12387000" />
+      <workItem from="1710128776772" duration="9430000" />
+      <workItem from="1710201602814" duration="2267000" />
+      <workItem from="1710224338401" duration="7360000" />
+      <workItem from="1710721748364" duration="7860000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
